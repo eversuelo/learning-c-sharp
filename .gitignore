@@ -1,0 +1,9 @@
+# .NET build output
+bin/
+obj/
+*.user
+*.suo
+.vs/
+.idea/
+*.swp
+.DS_Store
